@@ -1,0 +1,7 @@
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\ImageSample\bin\Debug\ImageSample.exe.config
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\ImageSample\bin\Debug\ImageSample.exe
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\ImageSample\bin\Debug\ImageSample.pdb
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\ImageSample\obj\Debug\ImageSample.csproj.CoreCompileInputs.cache
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\ImageSample\obj\Debug\ImageSample.exe
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\ImageSample\obj\Debug\ImageSample.pdb
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\ImageSample\obj\Debug\ImageSample.csprojAssemblyReference.cache

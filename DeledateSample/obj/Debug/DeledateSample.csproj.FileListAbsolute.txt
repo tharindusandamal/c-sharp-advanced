@@ -1,0 +1,7 @@
+D:\Develoment\C sharp\C Advanced\DeledateSample\bin\Debug\DeledateSample.exe.config
+D:\Develoment\C sharp\C Advanced\DeledateSample\bin\Debug\DeledateSample.exe
+D:\Develoment\C sharp\C Advanced\DeledateSample\bin\Debug\DeledateSample.pdb
+D:\Develoment\C sharp\C Advanced\DeledateSample\obj\Debug\DeledateSample.csprojAssemblyReference.cache
+D:\Develoment\C sharp\C Advanced\DeledateSample\obj\Debug\DeledateSample.csproj.CoreCompileInputs.cache
+D:\Develoment\C sharp\C Advanced\DeledateSample\obj\Debug\DeledateSample.exe
+D:\Develoment\C sharp\C Advanced\DeledateSample\obj\Debug\DeledateSample.pdb

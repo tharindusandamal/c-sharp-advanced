@@ -1,0 +1,7 @@
+D:\Develoment\C sharp\C Advanced\DelegateSample2\bin\Debug\DelegateSample2.exe.config
+D:\Develoment\C sharp\C Advanced\DelegateSample2\bin\Debug\DelegateSample2.exe
+D:\Develoment\C sharp\C Advanced\DelegateSample2\bin\Debug\DelegateSample2.pdb
+D:\Develoment\C sharp\C Advanced\DelegateSample2\obj\Debug\DelegateSample2.csprojAssemblyReference.cache
+D:\Develoment\C sharp\C Advanced\DelegateSample2\obj\Debug\DelegateSample2.csproj.CoreCompileInputs.cache
+D:\Develoment\C sharp\C Advanced\DelegateSample2\obj\Debug\DelegateSample2.exe
+D:\Develoment\C sharp\C Advanced\DelegateSample2\obj\Debug\DelegateSample2.pdb

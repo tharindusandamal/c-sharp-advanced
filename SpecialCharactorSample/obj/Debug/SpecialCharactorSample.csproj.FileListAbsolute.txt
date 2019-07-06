@@ -1,0 +1,7 @@
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\SpecialCharactorSample\bin\Debug\SpecialCharactorSample.exe.config
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\SpecialCharactorSample\bin\Debug\SpecialCharactorSample.exe
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\SpecialCharactorSample\bin\Debug\SpecialCharactorSample.pdb
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\SpecialCharactorSample\obj\Debug\SpecialCharactorSample.csprojAssemblyReference.cache
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\SpecialCharactorSample\obj\Debug\SpecialCharactorSample.csproj.CoreCompileInputs.cache
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\SpecialCharactorSample\obj\Debug\SpecialCharactorSample.exe
+C:\Users\tharindu.ENADOC\source\repos\C.Sharp.Advanced\SpecialCharactorSample\obj\Debug\SpecialCharactorSample.pdb

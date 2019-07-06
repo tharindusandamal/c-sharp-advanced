@@ -1,0 +1,15 @@
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\bin\Debug\DrowCirclesAndSquares.exe.config
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\bin\Debug\DrowCirclesAndSquares.exe
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\bin\Debug\DrowCirclesAndSquares.pdb
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\DrowCirclesAndSquares.csprojAssemblyReference.cache
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\MainWindow.g.cs
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\App.g.cs
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\DrowCirclesAndSquares_MarkupCompile.cache
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\DrowCirclesAndSquares_MarkupCompile.lref
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\MainWindow.baml
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\DrowCirclesAndSquares.g.resources
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\DrowCirclesAndSquares.Properties.Resources.resources
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\DrowCirclesAndSquares.csproj.GenerateResource.cache
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\DrowCirclesAndSquares.csproj.CoreCompileInputs.cache
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\DrowCirclesAndSquares.exe
+D:\Develoment\C.Sharp.Advanced\DrowCirclesAndSquares\obj\Debug\DrowCirclesAndSquares.pdb

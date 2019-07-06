@@ -1,0 +1,7 @@
+D:\Develoment\Microsoft Tech\C Advanced\LINQSample\bin\Debug\LINQSample.exe.config
+D:\Develoment\Microsoft Tech\C Advanced\LINQSample\bin\Debug\LINQSample.exe
+D:\Develoment\Microsoft Tech\C Advanced\LINQSample\bin\Debug\LINQSample.pdb
+D:\Develoment\Microsoft Tech\C Advanced\LINQSample\obj\Debug\LINQSample.csprojAssemblyReference.cache
+D:\Develoment\Microsoft Tech\C Advanced\LINQSample\obj\Debug\LINQSample.csproj.CoreCompileInputs.cache
+D:\Develoment\Microsoft Tech\C Advanced\LINQSample\obj\Debug\LINQSample.exe
+D:\Develoment\Microsoft Tech\C Advanced\LINQSample\obj\Debug\LINQSample.pdb

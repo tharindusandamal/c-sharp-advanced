@@ -1,0 +1,7 @@
+D:\Develoment\Microsoft Tech\C Advanced\FuctionSample\bin\Debug\FuctionSample.exe.config
+D:\Develoment\Microsoft Tech\C Advanced\FuctionSample\bin\Debug\FuctionSample.exe
+D:\Develoment\Microsoft Tech\C Advanced\FuctionSample\bin\Debug\FuctionSample.pdb
+D:\Develoment\Microsoft Tech\C Advanced\FuctionSample\obj\Debug\FuctionSample.csprojAssemblyReference.cache
+D:\Develoment\Microsoft Tech\C Advanced\FuctionSample\obj\Debug\FuctionSample.csproj.CoreCompileInputs.cache
+D:\Develoment\Microsoft Tech\C Advanced\FuctionSample\obj\Debug\FuctionSample.exe
+D:\Develoment\Microsoft Tech\C Advanced\FuctionSample\obj\Debug\FuctionSample.pdb

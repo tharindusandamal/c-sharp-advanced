@@ -1,0 +1,14 @@
+D:\Develoment\C.Sharp.Advanced\PolymophisumSample\bin\Debug\PolymophisumSample.exe.config
+D:\Develoment\C.Sharp.Advanced\PolymophisumSample\bin\Debug\PolymophisumSample.exe
+D:\Develoment\C.Sharp.Advanced\PolymophisumSample\bin\Debug\PolymophisumSample.pdb
+D:\Develoment\C.Sharp.Advanced\PolymophisumSample\obj\Debug\PolymophisumSample.csprojAssemblyReference.cache
+D:\Develoment\C.Sharp.Advanced\PolymophisumSample\obj\Debug\PolymophisumSample.csproj.CoreCompileInputs.cache
+D:\Develoment\C.Sharp.Advanced\PolymophisumSample\obj\Debug\PolymophisumSample.exe
+D:\Develoment\C.Sharp.Advanced\PolymophisumSample\obj\Debug\PolymophisumSample.pdb
+D:\Develoment\C sharp\C Advanced\PolymophisumSample\bin\Debug\PolymophisumSample.exe.config
+D:\Develoment\C sharp\C Advanced\PolymophisumSample\bin\Debug\PolymophisumSample.exe
+D:\Develoment\C sharp\C Advanced\PolymophisumSample\bin\Debug\PolymophisumSample.pdb
+D:\Develoment\C sharp\C Advanced\PolymophisumSample\obj\Debug\PolymophisumSample.csprojAssemblyReference.cache
+D:\Develoment\C sharp\C Advanced\PolymophisumSample\obj\Debug\PolymophisumSample.csproj.CoreCompileInputs.cache
+D:\Develoment\C sharp\C Advanced\PolymophisumSample\obj\Debug\PolymophisumSample.exe
+D:\Develoment\C sharp\C Advanced\PolymophisumSample\obj\Debug\PolymophisumSample.pdb
